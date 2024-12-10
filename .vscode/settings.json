@@ -1,0 +1,7 @@
+{
+    "php.validate.executablePath": "",
+    "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+        },
+    
+}
